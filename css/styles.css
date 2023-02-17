@@ -1,0 +1,11 @@
+#headerImgs{
+  float: right;
+}
+#breaklineImg{
+
+}
+body{
+  background-image: url(/img/hr-img.png) ;
+  background-repeat: repeat-x;
+  background-position: 50% 120%;
+}
