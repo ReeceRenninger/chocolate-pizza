@@ -46,27 +46,29 @@ align-items: center;
 }
 
 #breaklineImg{
-/* TODO NEED TO MOVE TEXT OVER THE LINED IMAGE */
+/* TODO NEED TO MOVE TEXT OVER THE LINED IMAGE RELATIVE ON IMG AND ABSOLUTE ON TEXT ISNT WORKING LIKE FROM W3 SCHOOLS, HAVE TO FIND WHY ITS GOING WRONG*/
 }
-.listItems{
-  position: relative;
+.listContainer{
+  color: brown;
   text-align: center;
+  font-family: 'Fira Sans', sans-serif;
+  position:relative;
 }
-
+/* 
 .linedPage{
   display: block;
   margin-left: auto;
   margin-right: auto;
   position: relative;
-}
+} */
 .itemOne{
-  
+
 }
 .itemTwo{
-
+  
 }
 .itemThree{
-
+  
 }
 .itemFour{
 
