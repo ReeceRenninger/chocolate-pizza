@@ -1,34 +1,75 @@
 body{
   background-image: url(/img/hr-img.png) ;
   background-repeat: repeat-x;
-  background-position: 5% 10%;
+  background-position: 5% 14%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#headerTitle{
+  font-family: 'Yellowtail', cursive;
+  font-size: 2.5em;
+}
+
+#headerPos{
+}
+
+h1{
+  font-size: 3em;
   
 }
+
 #headerImgs{
   float: right;
 }
-#breaklineImg{
 
+#printerImg{
+  float:right;
 }
 
 #mainPageInfo {
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 align-items: center;
+padding-top: 10px;
 }
+
+#mainImg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#mainText{
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: auto;
+}
+
+#breaklineImg{
+
+}
+
+
 #linedPage{
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
+
 footer{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  text-align: center;
+
 }
+
+#authorBio{
+
+}
+
 #smallLogo{
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
+
 button {
   float: right;
 }
