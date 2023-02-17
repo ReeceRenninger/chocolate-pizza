@@ -1,0 +1,124 @@
+body{
+  background-image: url(/img/hr-img.png) ;
+  background-repeat: repeat-x;
+  background-position: 5% 14%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#headerTitle{
+  font-family: 'Yellowtail', cursive;
+  font-size: 2.5em;
+}
+
+#headerPos{
+
+}
+
+h1{
+  font-size: 3em;
+  
+}
+
+#headerImgs{
+  float: right;
+}
+
+#printerImg{
+  float:right;
+}
+
+#mainPageInfo {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+align-items: center;
+
+}
+
+#mainImg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#mainText{
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: auto;
+}
+
+#breaklineImg{
+/* TODO NEED TO MOVE TEXT OVER THE LINED IMAGE RELATIVE ON IMG AND ABSOLUTE ON TEXT ISNT WORKING LIKE FROM W3 SCHOOLS, HAVE TO FIND WHY ITS GOING WRONG*/
+}
+.listContainer{
+  color: brown;
+  text-align: center;
+  font-family: 'Fira Sans', sans-serif;
+  position:relative;
+}
+/* 
+.linedPage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+} */
+.itemOne{
+
+}
+.itemTwo{
+  
+}
+.itemThree{
+  
+}
+.itemFour{
+
+}
+.itemFive{
+
+}
+.itemSix{
+
+}
+.itemSeven{
+text-decoration: line-through;
+}
+.itemEight{
+  text-decoration: line-through;
+}
+.itemNine{
+
+}
+.itemTen{
+
+}
+.itemEleven{
+
+}
+.itemTwelve{
+
+}
+footer{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+#authorBio{
+
+}
+
+#smallLogo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#copyright{
+  text-align: center;
+}
+
+button {
+  float: right;
+  color: white;
+  background-color: rgba(170, 22, 22, 0.829);
+  size: 20px;
+}
